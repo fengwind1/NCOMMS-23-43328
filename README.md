@@ -1,4 +1,4 @@
-1. # Color Recognition MATLAB Code
+# Color Recognition MATLAB Code
 
 ## Introduction
 This MATLAB code is designed for color recognition using grayscale images. The primary requirement for the code is a set of nine grayscale images named 'datacut1' to 'datacut9', provided in TXT format. The code utilizes these grayscale image data matrices to achieve color discrimination.
@@ -25,7 +25,7 @@ Make sure to customize the code according to your specific use case and modify p
 
 ## Dependencies
 - MATLAB R2022 or later
-2. # MATLAB Trajectory Tracking Code
+# MATLAB Trajectory Tracking Code
 
 ## Introduction
 This MATLAB code is designed for trajectory tracking, utilizing various scripts and functions. The primary script, `Main.m`, is responsible for executing the trajectory tracking process. It begins by training on the `traindata`, then validates and reproduces trajectories using the `testgroup`. 
